@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "e2167aa314e4f21c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Business plans/v1.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
